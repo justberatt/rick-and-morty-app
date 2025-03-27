@@ -1,6 +1,8 @@
 # React Vite App
 
-This is a React application built with Vite. Follow the instructions below to set up and run the project locally.
+This is a React application built with Vite. I have used TypeScript and with it a GraphQL Code Generator to keep the frontend's type definitions consistent with the backend should the schema change.
+
+Follow the instructions below to set up and run the project locally.
 
 ## Prerequisites
 
