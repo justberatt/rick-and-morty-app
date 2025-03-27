@@ -1,7 +1,5 @@
 # React Vite App
 
----
-
 This is a React application built with Vite. Follow the instructions below to set up and run the project locally.
 
 ## Prerequisites
