@@ -7,8 +7,9 @@ Follow the instructions below to set up and run the project locally.
 ## Prerequisites
 
 Make sure you have the following installed:
-[Node.js](https://nodejs.org/) (LTS version recommended)
-[npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
+
+- [Node.js](https://nodejs.org/) (LTS version recommended)
+- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
 
 ## Installation
 
